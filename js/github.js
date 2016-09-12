@@ -14,7 +14,7 @@
   // Helpers
   var _addImportWishBtn = function () {
     if (github.isProjectIssues) {
-      $('.btn-beerpay-wish').remove();
+      $('.btn-beerpay-wish, .btn-beerpay-wish-imported').remove();
 
       $('li.js-issue-row').each(function () {
         var $item = $(this);
