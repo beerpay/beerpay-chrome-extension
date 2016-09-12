@@ -1,0 +1,30 @@
+.btn-beerpay,
+.btn-beerpay-wish {
+  background-color: #f85d5d !important;
+  background-image: -webkit-linear-gradient(#f85d5d, #e74c4c) !important;
+  background-image: linear-gradient(#f85d5d, #e74c4c) !important;
+  border-color: #d43c3c !important;
+  color: #fff !important;
+}
+
+.btn-beerpay > .beerpay-logo {
+  float: left;
+  height: 14px;
+  margin-right: 4px;
+  position: relative;
+  top: 2px;
+}
+
+.btn-beerpay-wish {
+  padding: 5px 8px;
+  border-radius: 4px;
+  display: block;
+}
+
+.btn-beerpay-wish-imported {
+  text-decoration: none;
+  background-color: rgb(221, 221, 221) !important;
+  background-image: linear-gradient(rgb(238, 238, 238), rgb(221, 221, 221)) !important;
+  border-color: rgb(204, 204, 204) !important;
+  color: #444 !important;
+}
