@@ -1,4 +1,8 @@
 # beerpay-chrome-extension
+DEPRECATED - Our new OSS repo is https://github.com/beerpay/beerpay-browser-extension
+
+--------------------------
+
 Extension to use [Beerpay](https://beerpay.io) on Google Chrome.
 
 ## Install from Chrome Web Store
